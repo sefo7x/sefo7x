@@ -1,13 +1,7 @@
 - 👋 Hi, I’m @sefo7x
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+please help me
 
 <!---
-sefo7x/sefo7x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Traceback (most recent call last):
   File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main
     return _run_code(code, main_globals, None,
@@ -93,5 +87,12 @@ ValueError: storage dir path cannot contain spaces, please specify a path with -
 # Please read the full log, and search for it before
 # raising an issue with buildozer itself.
 # In case of a bug report, please add a full log with log_level = 2
+
+--->
+
+
+
+
+
 I need help
 
